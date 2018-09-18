@@ -1,0 +1,8 @@
+﻿  ANDROID_HOME=C:\ProgramData\Microsoft\AndroidSDK\25
+  ANT_HOME=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Apps\apache-ant-1.9.3
+  JAVA_HOME=C:\Program Files\Java\jdk1.8.0_181
+  NDK_ROOT=C:\\Microsoft\AndroidNDK64\android-ndk-r15c
+  pch.h
+  android_native_app_glue.c
+  main.cpp
+  Android-app.NativeActivity.vcxproj -> C:\Users\dev\Documents\GitHub\Android-project\Android-app\x86\Debug\libAndroid_app.so

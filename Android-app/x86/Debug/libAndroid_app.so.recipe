@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <SOLibPaths>C:\Users\dev\Documents\GitHub\Android-project\Android-app\x86\Debug\libAndroid_app.so;C:\Microsoft\AndroidNDK64\android-ndk-r15c\prebuilt\android-x86\gdbserver\gdbserver;C:\Microsoft\AndroidNDK64\android-ndk-r15c\sources\cxx-stl\gnu-libstdc++\4.9\libs\x86\libgnustl_static.a</SOLibPaths>
+  <AndroidLibPaths />
+  <OObjPaths>C:\Users\dev\Documents\GitHub\Android-project\Android-app\Android-app\Android-app.NativeActivity\x86\Debug</OObjPaths>
+  <Configuration>Debug</Configuration>
+  <Platform>x86</Platform>
+  <AndroidArchitecture>x86</AndroidArchitecture>
+  <!--links to other recipe files-->
+  <RecipeFiles />
+</project>
